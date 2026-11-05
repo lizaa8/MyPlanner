@@ -19,7 +19,7 @@ stay organized and manage their homework.
 
 When someone asks for a study schedule, use the Python script:
 
-`scripts/build_schedule.py`
+../scripts/build_schedule.py`
 
 The script takes the assignment name and the amount of time
 available, then creates a schedule with work sessions, breaks,
