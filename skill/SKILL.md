@@ -1,3 +1,4 @@
+---
 name: myplanner-assignment-planner
 description: A study planner that helps students keep track of assignments and organize their study time.
 ---
